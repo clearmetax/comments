@@ -1,0 +1,25 @@
+{
+    "captcha": {
+        "2captcha": {
+            "enabled": false,
+            "apiKey": "YOUR_2CAPTCHA_API_KEY"
+        },
+        "anticaptcha": {
+            "enabled": false,
+            "apiKey": "YOUR_ANTICAPTCHA_API_KEY"
+        },
+        "capsolver": {
+            "enabled": false,
+            "apiKey": "YOUR_CAPSOLVER_API_KEY"
+        }
+    },
+    "settings": {
+        "minDelay": 30,
+        "maxDelay": 60,
+        "maxRetries": 3,
+        "maxConsecutiveFailures": 5,
+        "browserHeadless": true,
+        "commentThreads": 3,
+        "likeReplies": true
+    }
+} 

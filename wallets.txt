@@ -1,0 +1,4 @@
+# Add your wallet private keys here, one per line
+# Example format:
+# 4KvGWaGBH7RZKUKVJmEgxvUqtYByHGJ8yDUPXGBZe4YhAoRJXJCQH9MzqtXHwFqQzy7rNwGUYvYd9ATpVx4zGUMJ
+# Remove this comment and add your actual private keys 

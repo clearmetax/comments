@@ -1,0 +1,5 @@
+# Add your proxies here, one per line
+# Supported formats:
+# http://username:password@host:port
+# socks://username:password@host:port
+# Remove this comment and add your actual proxies
